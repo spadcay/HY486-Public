@@ -3,6 +3,7 @@ Project_1 -> https://www.csd.uoc.gr/~hy486/old_websites/2023_2024/material/proje
 
 ## How to Run Project_1
 - Open a terminal
+
   1.Navigate to project directory
     ```sh
        cd /path/to/project
@@ -14,6 +15,7 @@ Project_1 -> https://www.csd.uoc.gr/~hy486/old_websites/2023_2024/material/proje
      
 ## How to clean up compiled files 
 - Open a terminal
+
   1.Navigate to project directory
     ```sh
        cd /path/to/project
